@@ -1,0 +1,5 @@
+jupyter
+jupyterthemes
+matplotlib
+sklearn
+cv2
